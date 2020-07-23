@@ -1,2 +1,2 @@
 # web
-Dummy Website used for deploy using Jenkins 
+Dummy Website used for CI/CD pipeline deploy using Jenkins 
